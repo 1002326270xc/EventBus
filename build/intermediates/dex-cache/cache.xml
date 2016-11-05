@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xiangcheng/AndroidStudioProjects/EventBus-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/xiangcheng/AndroidStudioProjects/EventBus-master/app/build/intermediates/pre-dexed/debug/classes-e61821183f6c8e58bda945717a6600ade1e6faa1.jar" />
+    </item>
+    <item
+        jar="/Users/xiangcheng/AndroidStudioProjects/EventBus-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/xiangcheng/AndroidStudioProjects/EventBus-master/app/build/intermediates/pre-dexed/debug/classes-d107899e15a0f68710830c00b7819a4095a9fa3f.jar" />
+    </item>
+    <item
+        jar="/Users/xiangcheng/AndroidStudioProjects/EventBus-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/xiangcheng/AndroidStudioProjects/EventBus-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-b365edbfd18b149a99d57fd544e733be75765edc.jar" />
+    </item>
+    <item
+        jar="/Users/xiangcheng/AndroidStudioProjects/EventBus-master/app/build/intermediates/exploded-aar/EventBus-master/library-master/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2a6d54a80e833ac60bde817f604d7b8dfa35b21a">
+        <dex dex="/Users/xiangcheng/AndroidStudioProjects/EventBus-master/app/build/intermediates/pre-dexed/debug/classes-6199f028801ab73f83675d4f79ab83fba765f6fb.jar" />
+    </item>
+    <item
+        jar="/Users/xiangcheng/AndroidStudioProjects/EventBus-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/xiangcheng/AndroidStudioProjects/EventBus-master/app/build/intermediates/pre-dexed/debug/classes-1b8a490d4c3edb91855820d8a814b764cea2a21f.jar" />
+    </item>
+    <item
+        jar="/Users/xiangcheng/AndroidStudioProjects/EventBus-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/xiangcheng/AndroidStudioProjects/EventBus-master/app/build/intermediates/pre-dexed/debug/classes-9dd925dd0bcf52bcf04e11b23c1b0d21e1d81035.jar" />
+    </item>
+    <item
+        jar="/Users/xiangcheng/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/xiangcheng/AndroidStudioProjects/EventBus-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-0a7e597367c06b6fa37877cf6db58365ef049252.jar" />
+    </item>
+
+</items>
